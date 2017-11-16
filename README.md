@@ -9,5 +9,6 @@
  - [介面](https://mirdex.github.io/JavaSE/介面.slides.html)
  - [列舉](https://mirdex.github.io/JavaSE/列舉.slides.html)
  - [內部類別](https://mirdex.github.io/JavaSE/內部類別.slides.html)
+ - [多執行緒](https://mirdex.github.io/JavaSE/多執行緒.slides.html)
 ### 學習資源
 
